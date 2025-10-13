@@ -8,7 +8,7 @@
 
 ## 🚀 Projects That Define Me
 
-### ⚡ Cricklytics – Cricket Analytics Engine (Python)
+### ⚡ CricVerse – Cricket Analytics Engine (Python)
 
 A Python-powered analytics system processing over **1100+ IPL match files** to generate:
 
@@ -20,7 +20,7 @@ A Python-powered analytics system processing over **1100+ IPL match files** to g
 
 > **Stack:** Python, PyYAML, SQLite, Flask, Data Structures, Statistics  
 > **Status:** 🛠 Work in Progress | Launching Soon  
-> [GitHub Repo](https://github.com/Akhilesh-Kancharla/cricklytics)
+> [GitHub Repo](https://github.com/Akhilesh-Kancharla/CricVerse-A-Statistical-Engine)
 
 ---
 
