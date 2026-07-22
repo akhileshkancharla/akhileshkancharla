@@ -6,7 +6,7 @@
 <!-- Dynamic Typing SVG Header -->
 <h1 align="center">👋 Hey, I'm Akhilesh Kancharla</h1>
 <p align="center">
-  <a href="https://github.com/Akhilesh-Kancharla">
+  <a href="https://github.com/akhilesh kancharla">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Dual-Degree+Data+Science+%26+CSE+Undergrad;Building+Robust+Data+Pipelines;Exploring+Multi-Agent+Reinforcement+Learning;Automating+Workflows+from+Scratch" alt="Typing SVG" />
   </a>
 </p>
