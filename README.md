@@ -23,7 +23,7 @@
 
 <div align="center">
   <!-- Streak & Activity Graph (Updated Heroku to Demolab and added cache busting) -->
-  <img src="https://streak-stats.demolab.com/?user=Akhilesh-Kancharla&theme=tokyonight&hide_border=true&v=1" width="49%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=akhileshkancharla&theme=tokyonight&hide_border=true&v=1" width="49%" alt="GitHub Streak" />
 </div>
 
 ---
