@@ -33,14 +33,14 @@
 <div align="center">
   <p><strong>Languages & Databases</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,postgres,sqlite,supabase,bash" alt="Languages and Databases" />
+    <img src="https://skillicons.dev/icons?i=python,c,postgres,sqlite,supabase,bash,figma" alt="Languages and Databases" />
   </a>
   
   <br><br>
   
   <p><strong>Tools & Frameworks</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,html,css,git,github,vscode,linux" alt="Tools and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=flask,html,css,js,git,github,vscode,linux,vue" alt="Tools and Frameworks" />
   </a>
 </div>
 
