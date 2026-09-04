@@ -3,89 +3,109 @@
   <img src="https://komarev.com/ghpvc/?username=Akhilesh-Kancharla&label=Profile%20Views&color=3399FF&style=for-the-badge&v=1" alt="Profile Views" />
 </div>
 
-<!-- Dynamic Typing SVG Header -->
 <h1 align="center">👋 Hey, I'm Akhilesh Kancharla</h1>
+
 <p align="center">
   <a href="https://github.com/akhileshkancharla">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Dual-Degree+Data+Science+%26+CSE+Undergrad;Building+Robust+Data+Pipelines;Exploring+Multi-Agent+Reinforcement+Learning;Automating+Workflows+from+Scratch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=3399FF&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Computer+Vision;Building+Models%2C+Pipelines+%26+Applications;CSE+%40+MGIT+%7C+Data+Science+%40+IIT+Madras" alt="Machine Learning, Computer Vision, and Data Systems" />
   </a>
 </p>
 
-<br>
-
 <div align="center">
-  🎓 <b>B.Sc. Data Science @ IIT Madras</b> | <b>B.Tech CSE @ MGIT</b> | Batch of 2028 <br>
-  🛠️ Project-driven developer focused on <b>Data Engineering</b>, <b>Backend Architecture</b>, and <b>Workflow Automation</b>.<br>
-  📍 Building high-performance pipelines, analytics engines, and resilient data systems.
-</div>
-
----
-
-<div align="center">
-  <!-- Streak & Activity Graph (Updated Heroku to Demolab and added cache busting) -->
-  <img src="https://streak-stats.demolab.com/?user=akhileshkancharla&theme=tokyonight&hide_border=true&v=1" width="49%" alt="GitHub Streak" />
-</div>
-
----
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-  <p><strong>Languages & Databases</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,postgres,sqlite,supabase,bash,figma" alt="Languages and Databases" />
-  </a>
-  
-  <br><br>
-  
-  <p><strong>Tools & Frameworks</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,html,css,js,git,github,vscode,linux,vue" alt="Tools and Frameworks" />
-  </a>
+  🎓 <b>B.Tech CSE @ MGIT</b> | <b>B.Sc. Data Science @ IIT Madras</b><br>
+  Expected graduation: <b>2028</b><br><br>
+  I build <b>machine-learning models</b> and the <b>data pipelines and applications</b> around them.<br>
+  Currently focused on computer vision, image restoration, and reproducible evaluation.
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### Vantage – Recruitment Operating System
-A centralized portal architected for the Career Development Cell. 
-*   Features a self-correcting ingestion pipeline to automate academic verification.
-*   Designed with a *Zero-Entry* architecture to ensure a high-integrity data layer, eliminating manual academic record inputs by students.
-*   **Focus:** Workflow Automation, Data Pipelines, System Architecture
+### 🔬 [SemiRestore — Semiconductor SEM Image Restoration](https://github.com/akhileshkancharla/SemiRestore)
 
-### CricVerse – Statistical Intelligence Platform
-A high-performance cricket analytics engine processing over **1,100+ IPL match files**.
-*   Developed a **Pressure Resistance Model** to quantify player reliability and clutch performance under match pressure.
-*   Engineered a robust 3-schema database architecture using Supabase for highly optimized querying and data normalization.
-*   **Stack:** Python, Supabase, PyYAML, Flask, Statistics
+Co-developed a deep-learning system for restoring semiconductor scanning electron microscope images.
 
-### Heavy-Link – IoT Asset Operating System
-An IoT operating system designed for heavy infrastructure assets.
-*   Integrates digital ignition locks and biometric verification via a smart-controller to prevent unauthorized machinery use.
-*   Allows operations only after scanning a Govt-Verified QR/PIN.
-*   **Focus:** IoT Architecture, Hardware-Software Integration, Security
+- **My contribution:** PyTorch model development, restoration pipeline, inference, diagnostics, and validation.
+- Evaluated restoration quality using **PSNR and SSIM** under controlled degradation conditions.
+- Collaborated with **Likhitha Yepalagunta**, who led the platform, API, frontend, MLOps, observability, and deployment engineering.
+- 🏆 **2nd Prize in AI & Software — Bharat Techfusion 2K26**, a national-level 36-hour hackathon at KG Reddy College of Engineering & Technology.
 
-### Alloy Design Optimizer
-A matrix-based C program that calculates the ideal composition of an alloy based on user-selected metal properties.
-*   Solves for best-fit metal ratios using characteristic polynomials and linear algebra.
-*   **Stack:** C, Matrix Math, Procedural Design
+**Focus:** Computer Vision · PyTorch · Image Restoration · Model Evaluation
+
+### 🗂️ [Vantage — Recruitment Operations & Pipeline Research](https://github.com/akhileshkancharla/Vantage)
+
+Developed a recruitment operations platform for college placement cells, connecting student-record processing with eligibility evaluation and drive management.
+
+- Built the **student-record processing pipeline**, normalized PostgreSQL data model, REST APIs, and role-based workflows.
+- Evaluated the pipeline against **LLM-based extraction approaches** across clean and noisy inputs, comparing extraction quality, latency, and failure patterns.
+- The research paper based on this work has received **conditional acceptance**.
+
+**Focus:** Data Pipelines · PostgreSQL · Backend Development · Experimental Evaluation
+
+### 🏏 [CricVerse — Cricket Analytics](https://github.com/akhileshkancharla/CricVerse-A-Statistical-Engine)
+
+Built a cricket analytics application processing **1,100+ IPL match files** into player and match insights.
+
+- Developed Python ingestion workflows for irregular source records, entity resolution, and data normalization.
+- Implemented pressure-aware player scoring and SQL-backed analytics.
+- Connected data processing with interfaces for exploring player, team, and venue insights.
+
+**Focus:** Python · SQL · Cricket Analytics · Data Processing
+
+---
+
+## 🛠️ Currently Building
+
+### Intelligent Dead Reckoning — SIH26168
+
+Developing a navigation project for **GNSS outages using smartphone sensor data**.
+
+Current work focuses on Android sensor/GNSS acquisition, data feasibility, system architecture, and navigation-core validation. Sensor fusion and learned navigation components are under development.
+
+---
+
+## 🧰 Technical Toolkit
+
+<div align="center">
+  <p><strong>Machine Learning & Data</strong></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,python,postgres,sqlite,supabase" alt="PyTorch, Python, PostgreSQL, SQLite, Supabase" />
+
+  <br><br>
+
+  <p><strong>Applications & Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=flask,js,vue,html,css,c" alt="Flask, JavaScript, Vue, HTML, CSS, C" />
+
+  <br><br>
+
+  <p><strong>Development Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,figma" alt="Git, GitHub, Linux, Bash, VS Code, Figma" />
+</div>
+
+---
+
+## 💡 Other Projects
+
+- **[Heavy-Link](https://github.com/akhileshkancharla/Heavy-Link):** An IoT project exploring access control and hardware–software integration for heavy infrastructure assets.
+- **[Alloy Design Optimizer](https://github.com/akhileshkancharla/alloy-design-optimizer):** A C program using matrix methods and linear algebra to calculate alloy compositions from selected material properties.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=akhileshkancharla&theme=tokyonight&hide_border=true" alt="Akhilesh's GitHub contribution streak" />
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akhilesh-kancharla-63b5b6327">
+  <a href="https://www.linkedin.com/in/akhileshkancharla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:akhileshkancharla5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>🚀 Let's build real-world solutions from raw ideas and raw data.</i>
 </div>
