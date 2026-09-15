@@ -9,10 +9,18 @@ export function Header() {
       <a className="skip-link" href="#main">Skip to content</a>
       <div className="shell nav-shell">
         <Link className="wordmark" href="/" aria-label={`${profile.name}, home`}><span>AK</span><i aria-hidden="true" /></Link>
-        <nav aria-label="Primary navigation">
+        <nav className="desktop-nav" aria-label="Primary navigation">
           <Link href="/projects">Work</Link><Link href="/research">Research</Link><Link href="/about">About</Link><Link href="/resume">Résumé</Link><ExternalLink href={profile.social.github}>GitHub</ExternalLink>
         </nav>
-        <ThemeToggle />
+        <div className="nav-actions">
+          <ThemeToggle />
+          <details className="mobile-menu">
+            <summary>Menu</summary>
+            <nav aria-label="Mobile navigation">
+              <Link href="/projects">Work</Link><Link href="/research">Research</Link><Link href="/about">About</Link><Link href="/resume">Résumé</Link><ExternalLink href={profile.social.github}>GitHub</ExternalLink>
+            </nav>
+          </details>
+        </div>
       </div>
     </header>
   );
